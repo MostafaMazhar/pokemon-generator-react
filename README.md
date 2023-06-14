@@ -1,2 +1,2 @@
-# pokemon
-Created with CodeSandbox
+# Pokemon Generator 
+
