@@ -1,3 +1,3 @@
 # React Pokemon Generator 
 
-![Screen Shot 2023-06-13 at 6 14 35 PM](https://github.com/MostafaMazhar/pokemon-generator-react/assets/65758011/0fd2bcc6-113e-4fe2-b6db-0feab7555575)
+![Jun-16-2023 01-12-44](https://github.com/MostafaMazhar/pokemon-generator-react/assets/65758011/5a4a1f9a-c2ce-47d5-8c56-7e1cbc1701e7)
